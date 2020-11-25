@@ -1,0 +1,9 @@
+body {
+    background: -webkit-linear-gradient(to right, #abbaab, #ffffff); /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #abbaab, #ffffff);
+}   
+
+h2 + ul  li   {
+    background: -webkit-linear-gradient(to left, #abbaab, #ffffff); /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #ffffff, #abbaab);
+}
